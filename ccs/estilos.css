@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#container{
+    width: 1144px;
+    height: 1321px;
+    background-color: #F49819;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header{
+    width: 1144px;
+    height: 0px;
+    float: left;
+    background-color: #F49819;
+}
+#nav{
+    width: 1144px;
+    height: 150px;
+    margin-top: 11px;
+    background-color: #FFFFFF;
+}
+#nav ul{
+    list-style-type: none;
+}
+#nav ul li{
+    display: inline-block;
+    margin-top: 47px;
+    margin-left: 431px;
+    margin-right: -405px;
+}
+#nav ul li a{
+    text-decoration: none;
+    background-color: #F49819;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 15px;
+    padding-top: 52px;
+    padding-right: 38px;
+    padding-left: 43px;
+    padding-bottom: 14px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+#nav ul li a:hover{
+    background-color: #9D4D1D;
+    color: #FFFFFF;
+}
+#logo{
+    margin-top: -64px;
+    margin-left: 35px;
+}
+#article{
+    float: left;
+    width: 1144px;
+    height: 1290px;
+    background-color: #EFE59C;
+    margin-top: 127px;
+}
+#h1{
+    color: #363636;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-top: 36px;
+    margin-right: 0px;
+}
+#Saludo{
+    color: #373737;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#entradas{
+    min-height: 0;
+    max-width: 369px;
+    margin-left: 22px;
+    margin-top: 52px;
+}
+#img-entradas{
+    width: 369px;
+    height: 294px;
+    background-image: url(../Materiales%20para%20Pagina%20Web/Imagenes%20-%20Restaurante/inicio/thumb_criollos.jpg);
+}
+#titulo-entrada{
+    color: #454141;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+#comentario{
+    color: #554F4F;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#criollas{
+    width: 344px;
+    height: 567px;
+    margin-left: 390px;
+    margin-top: -183px;
+}
+#img-criollas{
+    background-image: url(../Materiales%20para%20Pagina%20Web/Imagenes%20-%20Restaurante/inicio/thumb_entradas.jpg);
+    width: 344px;
+    height: 286px;
+    margin-top: -475px;
+}
+#titulo-criollas{
+    text-align: center;
+    margin-top: 15px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 20px;
+}
+#pastas{
+    width: 344px;
+    height: 567px;
+    margin-left: 364px;
+    margin-top: -226px;
+}
+#img-pastas{
+    background-image: url(../Materiales%20para%20Pagina%20Web/Imagenes%20-%20Restaurante/inicio/thumb_pastas.jpg);
+    width: 344px;
+    height: 286px;
+    margin-top: -492px;
+}
+#titulo-pastas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 7px;
+}
+#pie{
+	width: 1144px;
+	height: 255px;
+}
+#mapa{
+	width: 350px;
+	height: 200px;
+	margin-left: 70px;
+}
+#elementos_sitio{
+	width: 350px;
+	height: 113px;
+	margin-left: 70px;
+}
+#direccion{
+    width: 350px;
+    height: 100px;
+    margin-left: 633px;
+    margin-top: -140px;
+    color: #FFFFFF;
+}
+#footer{
+    float: left;
+    width: 1144px;
+    height: 272px;
+    background-color: #F49819;
+    margin-left: -22px;
+    padding-right: 0px;
+}
